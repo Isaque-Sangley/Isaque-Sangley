@@ -4,11 +4,11 @@
 ---
 
 ## Uma Introdução Além da Superfície  
-Imagine um desenvolvedor que não apenas escreve código, mas o infunde com intenção humana. Sou Isaque Sangley — persistente, autêntico e impulsionado por um fogo interno que transforma bits em narrativas. Não sigo roteiros prontos; crio caminhos que ressoam, onde cada linha carrega emoção, estratégia e visão.  
+Sou Isaque Sangley, um desenvolvedor que valoriza o equilíbrio entre técnica sólida e conexões humanas. Persistente e autêntico, eu me dedico a criar soluções que facilitam a vida das pessoas, com foco em clareza e impacto prático. Não sigo fórmulas prontas — prefiro adaptar e aprender no processo, garantindo que cada projeto reflita colaboração e crescimento.  
 
-A tecnologia, para mim, não é mera execução: é a arte de tecer o invisível em algo palpável. Atrás de interfaces elegantes, há arquiteturas que pulsam com propósito. Eu construo não só apps, mas experiências que tocam vidas — com empatia no design, robustez na lógica e alma em cada deploy.  
+A tecnologia, para mim, é uma ferramenta para resolver problemas reais: de interfaces intuitivas a back-ends confiáveis, tudo com empatia no design e robustez na execução.  
 
-**Essência em Resumo:** Direto como uma API bem documentada, apaixonado como um loop infinito de aprendizado. Vejo padrões onde outros veem caos, persisto até a excelência e equilibro intensidade com clareza. Cada projeto? Um reflexo de quem sou: real, impactante, eterno.  
+**Essência em Resumo:** Direto e colaborativo, com paixão pelo aprendizado contínuo. Vejo oportunidades em desafios, persisto com equilíbrio e priorizo o que realmente faz diferença. Cada projeto é uma chance de contribuir de forma genuína.  
 
 [Explore o universo completo → isaquesangley.com](https://isaquesangley.com)  
 
@@ -57,7 +57,54 @@ O núcleo pulsante: escalável, seguro e invisivelmente poderoso.
 | C# | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) |  
 | PHP | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |  
 
-**Âmbito Ampliado:** Bancos como PostgreSQL e Redis para persistência inteligente; DevOps com Docker e AWS para orquestração fluida; Segurança via OAuth2 e criptografia robusta; Toques de AI com PyTorch para predições que antecipam necessidades. Tudo ancorado em Agile e TDD, garantindo clean code em escala.  
+### Domínio Banco de Dados: Persistência que Memória o Fluxo  
+Onde dados ganham eternidade: estruturas que capturam narrativas em tempo real, com queries afiadas e escalabilidade inabalável.  
+
+| Linguagem/Ferramenta | Ícone Visual |  
+|----------------------|--------------|  
+| PostgreSQL | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |  
+| MySQL | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |  
+| SQLite | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) |  
+| MongoDB | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |  
+| Redis | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |  
+| Firebase | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |  
+| Supabase | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |  
+| DynamoDB | ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D3?style=for-the-badge&logo=amazondynamodb&logoColor=white) |  
+
+### Domínio Mobile: Aplicativos que Pulsam na Palma da Mão  
+Experiências nativas e híbridas que transcendem telas, conectando mundos móveis com fluidez e notificações que capturam atenção.  
+
+| Linguagem/Ferramenta | Ícone Visual |  
+|----------------------|--------------|  
+| React Native | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |  
+| Expo | ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white) |  
+| Java (Android) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |  
+| Firebase | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |  
+| Push Notifications | ![Push Notifications](https://img.shields.io/badge/Push_Notifications-FF6B6B?style=for-the-badge&logo=bell&logoColor=white) |  
+| Deep Linking | ![Deep Linking](https://img.shields.io/badge/Deep_Linking-4A90E2?style=for-the-badge&logo=link&logoColor=white) |  
+| App Store Connect | ![App Store](https://img.shields.io/badge/App_Store-007AFF?style=for-the-badge&logo=app-store&logoColor=white) |  
+| Google Play Console | ![Google Play](https://img.shields.io/badge/Google_Play-00C853?style=for-the-badge&logo=google-play&logoColor=white) |  
+
+### Domínio DevOps: Orquestração que Acelera o Infinito  
+Infraestruturas que fluem como código: de containers a clouds, pipelines que deployam sonhos com zero downtime e segurança em camadas.  
+
+| Linguagem/Ferramenta | Ícone Visual |  
+|----------------------|--------------|  
+| Docker | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |  
+| Docker Compose | ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) |  
+| Kubernetes | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |  
+| AWS | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |  
+| GCP | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |  
+| DigitalOcean | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) |  
+| Render | ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) |  
+| Vercel | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |  
+| GitHub Actions | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |  
+| GitLab CI | ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white) |  
+| NGINX | ![NGINX](https://img.shields.io/badge/NGINX-009C4A?style=for-the-badge&logo=nginx&logoColor=white) |  
+| Apache | ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) |  
+| Cloudflare | ![Cloudflare](https://img.shields.io/badge/Cloudflare-0A2540?style=for-the-badge&logo=cloudflare&logoColor=white) |  
+
+**Âmbito Ampliado:** Segurança via OAuth2 e criptografia robusta; Toques de AI com PyTorch para predições que antecipam necessidades. Tudo ancorado em Agile e TDD, garantindo clean code em escala.  
 
 ---
 
@@ -83,8 +130,9 @@ Evoluo de codificador tático a visionário sistêmico. De implementador a orque
 Foco: Desafios que esticam limites, estruturas que desafiam convenções, squads que aceleram coletivamente.  
 
 **Canais Diretos:**  
-- 💼 LinkedIn: [in/isaque-sangley-6a1044217](https://www.linkedin.com/in/isaque-sangley-6a1044217)  
-- 🐙 GitHub: [@Isaque-Sangley](https://github.com/Isaque-Sangley)  
+- 💼 LinkedIn: [isaque-sangley-6a1044217](https://www.linkedin.com/in/isaque-sangley-6a1044217) — Onde compartilho experiências profissionais e conexões no mundo do desenvolvimento.  
+- 🐙 GitHub: [@Isaque-Sangley](https://github.com/Isaque-Sangley) — Meu playground de commits e caos controlado.  
+- 📸 Instagram: [isaquesangley](https://www.instagram.com/isaquesangley/) — Ah, e por falar em equilíbrio... lá eu posto fotos do dia a dia, como um café da manhã simples ou uma caminhada rápida, e o que eu curto fora do código — tipo ler um bom livro ou curtir um som no fone. Se rolar, me segue pra ver o lado mais leve? 😊  
 
 [Inicie o Diálogo → isaquesangley.com](https://isaquesangley.com)  
 
