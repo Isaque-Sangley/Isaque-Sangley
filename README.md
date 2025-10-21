@@ -77,18 +77,6 @@ Evoluo de codificador tático a visionário sistêmico. De implementador a orque
 
 ---
 
-## Obras que Ecoam: Do Conceito ao Impacto  
-Seleção curada de criações que transcenderam o sketch — open source que pulsam com vitalidade real.  
-
-- **Neural Engine**  
-  Plataforma de machine learning para insights preditivos em escala massiva, lidando com milhões de eventos diários.  
-  *Métricas:* 2.3k estrelas | [Código Aberto](https://github.com/Isaque-Sangley/neural-engine)  
-
-[Galeria Completa no GitHub →](https://github.com/Isaque-Sangley)  
-[Explorações Avançadas → isaquesangley.com/projects/outros](https://isaquesangley.com/projects/outros)  
-
----
-
 ## Conexão: Forjando o Próximo Horizonte  
 **Status Operacional:** Aberto a colaborações inovadoras • Feedback em até 24h • Totalmente remoto.  
 
