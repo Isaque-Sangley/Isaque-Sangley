@@ -4,15 +4,15 @@
 
 ### Desenvolvedor Full Stack | Arquiteto de Sistemas
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=Transformando+Ideias+em+Realidade;Clean+Code+%7C+Solid+Principles;10%2B+Anos+de+Experi%C3%AAncia;Arquitetura+que+Respira" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Transformando+Ideias+em+Realidade;Clean+Code+%7C+Solid+Principles;10%2B+Anos+de+Experi%C3%AAncia;Arquitetura+que+Respira" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Isaque-Sangley&color=FF6B6B&style=for-the-badge&label=VISITANTES+DO+PERFIL" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Isaque-Sangley&color=000000&style=for-the-badge&label=VISITANTES+DO+PERFIL" alt="Profile views" />
 </p>
 
 <p align="center">
   <a href="https://isaquesangley.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/isaque-sangley-6a1044217" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -49,15 +49,15 @@ A tecnologia, para mim, é uma ferramenta para resolver problemas reais: de inte
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Isaque-Sangley&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Isaque-Sangley&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Isaque-Sangley&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Isaque-Sangley&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-Sangley&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Isaque-Sangley&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&area_color=FF6B6B" alt="Contribution Graph" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-Sangley&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Isaque-Sangley&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF" alt="Contribution Graph" />
 
 </div>
 
@@ -65,7 +65,7 @@ A tecnologia, para mim, é uma ferramenta para resolver problemas reais: de inte
 
 ### 🏆 Troféus GitHub
 
-<img src="https://github-profile-trophy.vercel.app/?username=Isaque-Sangley&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Isaque-Sangley&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -191,7 +191,7 @@ Infraestruturas que fluem como código: de containers a clouds, pipelines que de
 | GitLab CI | ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white) |  
 | NGINX | ![NGINX](https://img.shields.io/badge/NGINX-009C4A?style=for-the-badge&logo=nginx&logoColor=white) |  
 | Apache | ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) |  
-| Cloudflare | ![Cloudflare](https://img.shields.io/badge/Cloudflare-0A2540?style=for-the-badge&logo=cloudflare&logoColor=white) |
+| Cloudflare | ![Cloudflare](https://img.shields.io/badge/Cloudflare-0A2540?style=for-the-badge&logo=cloudflare&logoColor=white) |  
 
 **Âmbito Ampliado:** Segurança via OAuth2 e criptografia robusta; Toques de AI com PyTorch para predições que antecipam necessidades. Tudo ancorado em Agile e TDD, garantindo clean code em escala.
 
@@ -258,5 +258,5 @@ Foco: Desafios que esticam limites, estruturas que desafiam convenções, squads
 *Forjado em persistência e visão descompromissada.*
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
 </div>
